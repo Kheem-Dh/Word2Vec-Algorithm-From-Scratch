@@ -1,6 +1,6 @@
 # Word2Vec-Algorithm-From-Scratch
 
-#### Write code to implement the skip-gram model of word2vec using python. You should write code to read input from a text file, train on the word2vec algorithm, save #### the word embeddings for each word, and finally validate the embeddings calculated by using cosine similarity.
+#### Write code to implement the skip-gram model of word2vec using python. You should write code to read input from a text file, train on the word2vec algorithm, save the word embeddings for each word, and finally validate the embeddings calculated by using cosine similarity.
 
 <img src="skipgram.jpg" alt="Skip Gram" title="Skip Gram Architecture">
 
